@@ -1,0 +1,1 @@
+# Has specified headings that set the act and the scene and dialog starts on a new line 
